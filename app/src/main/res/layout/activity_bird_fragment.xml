@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/birds_background">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivDuck"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/bird_duck_image"
+            />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivEagle"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/bird_eagle_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivOwl"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bird_owl_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivParrot"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/bird_parrot_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivHen"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/bird_hen_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivPigeon"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bird_pigeon_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivPeacock"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/bird_peacock_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivSparrow"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bird_sparrow_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivCrow"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/bird_crow_image"/>
+    </GridLayout>
+
+
+</LinearLayout>

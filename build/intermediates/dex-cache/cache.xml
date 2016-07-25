@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db1d729a8412367852d09200f7e8c187962e833a">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb78e01b314400fb65343f6ae2f624bc5e2ac779/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_056508737242c33287e2cdda285dccaab1c60f45/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bda5480eb15c8a2557aa54e5365450e0da064806">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f38076c3315b12d86a340261cb8fffc1dd23f64a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_29077643d5532374c6e1c3ba84d2e2073138d963/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_3f5ec8939e17a9b23d3a16ff5d7321e94334772f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_1db629eb654a3e40adcb80857a1e0fabaefbb134/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_9efbbeb6819092e7577a7f65b364f4f911183ff5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/SuchitaTewari/Downloads/FunSoundForKids2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_c975297a6b27d1c794efd22b61334e04998b1aeb/classes.dex" />
+    </item>
+
+</items>

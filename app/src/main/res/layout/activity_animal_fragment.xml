@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/animal_background">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivCat"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/animal_cat_image"
+            />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivBear"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/animal_bear_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivMonkey"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/animal_monkey_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivHorse"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/animal_horse_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivDog"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/animal_dog_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivElephant"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/animal_elephant_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivCow"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/animal_cow_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivLion"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/animal_lion_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivSheep"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/animal_sheep_image"/>
+    </GridLayout>
+
+
+</LinearLayout>

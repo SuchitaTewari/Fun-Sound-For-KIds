@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:rowCount="3"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/people_background">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivItalian"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/people_italian_image"
+            />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivJapanese"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/people_japanese_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivFrench"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/people_french_image" />
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivSpanish"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:background="@drawable/people_spanish_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivIndian"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/people_indian_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivGerman"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/people_german_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivChinese"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/people_chinese_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivAmerican"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/people_american_image"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:id="@+id/ivKorean"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/people_korean_image"/>
+    </GridLayout>
+
+</LinearLayout>
